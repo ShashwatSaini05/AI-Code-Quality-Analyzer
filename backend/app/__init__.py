@@ -1,0 +1,7 @@
+"""
+CodeSage AI — Backend Application Package
+AI-Powered Intelligent Code Quality Analyzer
+"""
+
+__version__ = "1.0.0"
+__author__ = "CodeSage AI Team"
