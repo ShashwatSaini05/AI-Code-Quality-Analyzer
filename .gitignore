@@ -67,3 +67,7 @@ coverage.xml
 
 # mypy
 .mypy_cache/
+
+# Portable Git
+mingit/
+
